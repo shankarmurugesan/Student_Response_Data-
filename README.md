@@ -38,7 +38,7 @@ In addition to the above analysis, several patterns were noted:
 
 ---
 
-## Key Insights for Stakeholders
+## Key Insights
 
 - **Performance Tracking**: Insights on student progress can guide personalized learning strategies.
 - **Question Design Feedback**: Understanding how question difficulty changes can inform future assessment design.
@@ -52,3 +52,8 @@ In addition to the above analysis, several patterns were noted:
 - **Dataset Columns**: `student_id`, `question_id`, `ability`, `difficulty`, `answered_correctly`, `year`
 
 ---
+
+## Sample Output:
+
+![image](https://github.com/user-attachments/assets/97a9ada4-d2bc-43c7-8492-b214d4db4ba6)
+
